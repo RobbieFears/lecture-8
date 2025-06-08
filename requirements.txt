@@ -1,1 +1,3 @@
--e "streamlit\npandas\nplotly" 
+streamlit==1.45.1
+pandas==2.3.0
+plotly==5.22.0
